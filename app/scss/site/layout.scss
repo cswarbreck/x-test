@@ -6,6 +6,7 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0px;
     padding: 0px;
+    height: 1203px;
     
 
 }
@@ -107,6 +108,7 @@ nav{
         height: 50px;
         margin: 0px;
         padding: 0px;
+        border-radius: 2px;
         h4{
             font-weight: 500;
             font-size: 18px;
@@ -114,6 +116,125 @@ nav{
             line-height: 24px;
             padding: 13px 28px;
             color: white;
+            margin: 0px;
+        }
+    }
+    #book{
+        position: absolute;
+        right: 389px;
+        top: 475px;
+        margin: 0px;
+        padding: 0px;
+        height: 539px;
+        width: 371px;
+        background-color: white;
+        box-shadow: 14px 30px #F26C4F;
+        h2{
+            font-weight: 500;
+            font-size: 19px;
+            letter-spacing: -0.03px;
+            line-height: 26px;
+            padding: 41px 64px 46px 79px;
+            color: #1B325F; 
+            margin: 0px;
+            width: 228px;
+            text-align: center;
+        }
+    }
+    #name{
+        position: absolute;
+        top: 588px;
+        right: 411px;
+        width: 329px;
+        height: 40px;
+        background-color: #E9F2F9;
+        margin: 0px;
+        padding: 0px;
+        h4{
+            font-weight: 400;
+            font-size: 15px;
+            color: #666666;
+            letter-spacing: -0.02px;
+            line-height: 20px;
+            padding: 8px 280px 12px 9px;
+            margin: 0px;
+        }
+    }
+    #email{
+        position: absolute;
+        top: 648px;
+        right: 411px;
+        width: 329px;
+        height: 40px;
+        background-color: #E9F2F9;
+        margin: 0px;
+        padding: 0px;
+        h4{
+            font-weight: 400;
+            font-size: 15px;
+            color: #666666;
+            letter-spacing: -0.02px;
+            line-height: 20px;
+            padding: 8px 280px 12px 9px;
+            margin: 0px;
+        }
+    }
+    #car{
+        position: absolute;
+        top: 708px;
+        right: 411px;
+        width: 329px;
+        height: 40px;
+        background-color: #E9F2F9;
+        margin: 0px;
+        padding: 0px;
+            p{
+            font-weight: 400;
+            font-size: 15px;
+            color: #666666;
+            letter-spacing: -0.02px;
+            line-height: 20px;
+            padding: 8px 9px 12px 9px;
+            margin: 0px;
+            height: 20px;
+            }
+    }
+    #case{
+        position: absolute;
+        top: 768px;
+        right: 411px;
+        width: 329px;
+        height: 120px;
+        background-color: #E9F2F9;
+        margin: 0px;
+        padding: 0px;
+        h4{
+            font-weight: 400;
+            font-size: 15px;
+            color: #666666;
+            letter-spacing: -0.02px;
+            line-height: 20px;
+            padding: 8px 206px 92px 9px;
+            margin: 0px;
+        }
+    }
+    #send{
+        position: absolute;
+        top: 918px;
+        right: 411px;
+        width: 150px;
+        height: 50px;
+        background-color: #1B325F;
+        margin: 0px;
+        padding: 0px;
+        border-radius: 2px;
+        h4{
+            font-weight: 500;
+            font-size: 18px;
+            color: white;
+            letter-spacing: -0.03px;
+            line-height: 24px;
+            padding: 13px 51px 13px 52px;
             margin: 0px;
         }
     }
