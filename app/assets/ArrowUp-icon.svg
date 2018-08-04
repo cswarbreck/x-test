@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="7px" height="5px" viewBox="0 0 7 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>ArrowUp-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1492.000000, -822.000000)" id="Group-19" fill="#666666">
+            <g>
+                <g id="Group-2" transform="translate(1492.000000, 822.000000)">
+                    <path d="M6.55530904,4.37450784 C6.68042622,4.37450784 6.79154428,4.31413662 6.87028936,4.22051747 C7.04265358,4.03240422 7.04265358,3.72442347 6.87203925,3.53456034 L3.81060559,0.14239735 C3.63999125,-0.0474657834 3.36350853,-0.0474657834 3.19376914,0.14239735 C3.18939441,0.147647022 3.18764452,0.154646585 3.1832698,0.159896256 L0.127960752,3.53456034 C-0.0426535842,3.72442347 -0.0426535842,4.03240422 0.127960752,4.22226736 C0.212830448,4.3176364 0.322198613,4.37450784 0.445565902,4.37450784 L6.55530904,4.37450784 Z" id="ArrowUp-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
