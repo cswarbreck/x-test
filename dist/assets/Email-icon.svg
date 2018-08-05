@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Email-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1152.000000, -20.000000)" id="Group-19" fill="#FFFFFF">
+            <g>
+                <g id="Group-9" transform="translate(1152.000000, 15.000000)">
+                    <g id="Email">
+                        <path d="M15,5 L1,5 C0.448,5 0,5.448 0,6 L0,16 C0,16.5520001 0.448,17 1,17 L15,17 C15.552,17 16,16.5520001 16,16 L16,6 C16,5.448 15.552,5 15,5 L15,5 Z M5.68,12.0270005 L8.002,13.6050005 L10.31,12.0160005 L14.293,16 L1.707,16 L5.68,12.0270005 L5.68,12.0270005 Z M1,15.293 L1,8.845 L4.8380005,11.454 L1,15.293 L1,15.293 Z M11.147,11.44 L15,8.788 L15,15.293 L11.147,11.44 L11.147,11.44 Z M15,6 L15,7.618 L14.979,7.588 L7.998,12.3950005 L1,7.637 L1,6 L15,6 L15,6 Z" id="Email-icon"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
